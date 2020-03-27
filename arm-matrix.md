@@ -16,7 +16,7 @@
 | radarr                  | X | X | `linuxserver/radarr` | Not running on arm now due to no ceph-csi container support for arm |
 | sonarr                  | X | X | `linuxserver/sonarr` | Not running on arm now due to no ceph-csi container support for arm |
 | unifi                   | X | X | `linuxserver/unifi-controller` | Not running this image right now - instead running `jacobalberty/unifi` which is amd64-only |
-| kured                   | X | X | `billimek/kured` |  |
+| kured                   | X | X | `johnknapprs/kured` |  |
 | metallb                 | X | X | `metallb/speaker` & `metallb/controller` |  |
 | metrics-server          |  |  | TBD | [this issue](https://github.com/kubernetes-incubator/metrics-server/issues/181) should enable multi-arch at some point |
 | nginx                   |  |  | TBD | [this PR](https://github.com/kubernetes/ingress-nginx/pull/4271) should enable support |

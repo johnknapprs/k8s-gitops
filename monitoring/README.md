@@ -41,7 +41,7 @@ ISP speed test results collector
 
 # uptimerobot
 
-Based on this [custom helm chart](https://github.com/billimek/billimek-charts/tree/master/uptimerobot)
+Based on this [custom helm chart](https://github.com/johnknapprs/billimek-charts/tree/master/uptimerobot)
 
 * [uptimerobot/uptimerobot.yaml](uptimerobot/uptimerobot.yaml)
 * [uptimerobot/uptimerobot-helm-values.yaml](uptimerobot/uptimerobot-helm-values.yaml)
